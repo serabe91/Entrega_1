@@ -58,28 +58,28 @@ Enter the following information:
 
 ## **Example Visual Workflow**
 1.  
-   ![Step 1 sc1](https://github.com/serabe91/serabe91/blob/main/images/sc1_ghsu.JPG?raw=true) 
+   ![Step 1 sc1](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc1_ghsu.JPG?raw=true) 
 
 2.   
-   ![Step 2 sc2](https://github.com/serabe91/serabe91/blob/main/images/sc2_ghsu.JPG?raw=true)
+   ![Step 2 sc2](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc2_ghsu.JPG?raw=true)
 
 3. 
-   ![Step 3 sc3](https://github.com/serabe91/serabe91/blob/main/images/sc3_signin.JPG?raw=true)
+   ![Step 3 sc3](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc3_signin.JPG?raw=true)
 
 4.
-    ![Step 4 sc4](https://github.com/serabe91/serabe91/blob/main/images/sc4_ghedu.JPG?raw=true)
+    ![Step 4 sc4](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc4_ghedu.JPG?raw=true)
 
 5. 
-   ![Step 5 sc5](https://github.com/serabe91/serabe91/blob/main/images/sc5_verif.JPG?raw=true)
+   ![Step 5 sc5](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc5_verif.JPG?raw=true)
 
 6. 
-   ![Step 6 sc6](https://github.com/serabe91/serabe91/blob/main/images/sc6_verif2.JPG?raw=true)
+   ![Step 6 sc6](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc6_verif2.JPG?raw=true)
 
 7. 
-   ![Step 7 sc7](https://github.com/serabe91/serabe91/blob/main/images/sc7_proof.JPG?raw=true)
+   ![Step 7 sc7](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc7_proof.JPG?raw=true)
 
 8. 
-   ![Step 8 sc8](https://github.com/serabe91/serabe91/blob/main/images/sc8_verified.JPG?raw=true)
+   ![Step 8 sc8](https://github.com/serabe91/Entrega_1/blob/master/GitHubAcc_Tutorial/images/sc8_verified.JPG?raw=true)
 
    
 ---
