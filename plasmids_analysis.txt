@@ -1,6 +1,0 @@
->NZ_CP043555.1 Vibrio cholerae strain RFB16 plasmid unnamed, complete sequence
-  Start: 1, End: 10000, G band, GC%: 41.01, AT%: 58.99
-  Start: 10001, End: 20000, G band, GC%: 40.51, AT%: 59.49
-  Start: 20001, End: 30000, G band, GC%: 42.28, AT%: 57.72
-  Start: 30001, End: 40000, G band, GC%: 41.0, AT%: 59.0
-  Start: 40001, End: 49113, G band, GC%: 41.34, AT%: 58.66
