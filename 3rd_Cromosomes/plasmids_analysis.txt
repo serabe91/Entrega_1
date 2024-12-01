@@ -1,0 +1,8 @@
+>NZ_CP043555.1 Vibrio cholerae strain RFB16 plasmid unnamed, complete sequence
+  Región 1 - AT Band: GC% = 41.0100, AT% = 58.9900 ----> Banda: R
+  Región 2 - AT Band: GC% = 40.5100, AT% = 59.4900 ----> Banda: R
+  Región 3 - AT Band: GC% = 42.2800, AT% = 57.7200 ----> Banda: R
+  Región 4 - AT Band: GC% = 41.0000, AT% = 59.0000 ----> Banda: R
+  Resumen para >NZ_CP043555.1 Vibrio cholerae strain RFB16 plasmid unnamed, complete sequence:
+    Total de Bandas G: 0
+    Total de Bandas R: 4
