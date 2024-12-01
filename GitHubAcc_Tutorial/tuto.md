@@ -85,7 +85,7 @@ Enter the following information:
 ---
 
 ## **Contact and Support**
-If you have any questions about this process, you can contact:
+If you have any questions about this process, you can:
 - **GitHub Education Support**: [GitHub Support](https://support.github.com/) 
 - **Our Institution's IT Department**
 - **Share troubles with classmates or teacher**
@@ -93,4 +93,4 @@ If you have any questions about this process, you can contact:
 ---
 
 With this guide, we will have our GitHub created with access to special resources
-and ready to use it for the next step [Downloading PyCharm through our verified GitHub institutional account](https://education.github.com/).  🚀
+and ready to use it for the next step: [Downloading PyCharm through our verified GitHub institutional account](https://www.jetbrains.com/shop/eform/students).  🚀
