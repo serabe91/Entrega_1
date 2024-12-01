@@ -1,5 +1,8 @@
 # 📘 Guide to Creating our GitHub Account Linked to National University of Colombia
 
+## Click here to access ---> [My profile](https://github.com/serabe91/serabe91?tab=readme-ov-file)
+
+
 ## **Objective**
 This guide explains how to create our GitHub account and associate it with the university domain in
 order to access benefits like: *GitHub Student Developer Pack*.
