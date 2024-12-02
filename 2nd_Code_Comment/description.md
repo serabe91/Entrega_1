@@ -18,13 +18,6 @@ El código define una clase `fasta_data` para trabajar con secuencias de ADN en 
 1. Si el archivo está vacío o mal formateado, podría fallar silenciosamente.
 2. La secuencia del último registro no se almacena porque no hay línea adicional para activarlo.
 
-**Propuesta de Mejora:**
-- Asegurarse de guardar el último registro después del bucle:
-    ```python
-    if self.id and self.seq:
-        self.records[self.id] = self.seq
-    ```
-
 ---
 
 ### 2. Métodos Getters
