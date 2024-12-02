@@ -84,13 +84,6 @@ El código define una clase `fasta_data` para trabajar con secuencias de ADN en 
 1. No diferencia entre repeticiones en diferentes secuencias.
 2. El cálculo de las repeticiones podría ser ineficiente.
 
-**Propuesta de Mejora:**
-- Considerar una estructura como `collections.Counter` para simplificar el conteo:
-    ```python
-    from collections import Counter
-    repeats = Counter(sequence[i:i+n] for i in range(len(sequence) - n + 1))
-    ```
-
 ---
 
 ### 4. Código de Uso
@@ -135,4 +128,7 @@ El código define una clase `fasta_data` para trabajar con secuencias de ADN en 
 4. **Pruebas y Validación:**
    - Incluir pruebas unitarias y manejo de excepciones para asegurar robustez en distintos escenarios.
 
+5. **Entrega de resultados:**
+   - Mejorar la visualización ya que solo nos muestra en algunos casos los valores de salida pero no de qué vienen o qué significan; además, se podría mejorar para que los resultados sean mostrados en un archivo de salida.
+   
 ---
