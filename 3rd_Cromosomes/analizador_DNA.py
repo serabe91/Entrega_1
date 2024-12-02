@@ -1,5 +1,13 @@
+#========================================================#
+#                        Librerias                       #
+#========================================================#
+
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
+
+#========================================================#
+#                        Funciones                       #
+#========================================================#
 
 # Función para analizar la secuencia de ADN
 def analizar_secuencia(secuencia, tamaño_ventana=10000):
@@ -145,6 +153,7 @@ def main():
         print("Error: El archivo de entrada no fue encontrado. Por favor verifica la ruta y vuelve a intentarlo.")
     except Exception as e:
         print(f"Ocurrió un error: {e}")
+
 
 # Ejecutar el programa principal
 if __name__ == "__main__":
