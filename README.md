@@ -12,4 +12,4 @@ Lo solicitado por el docente es lo siguiente:
 
 Los parciales deben ser nombrados con el siguiente formato: Apellido_nombre_entrega1. Solo se tendrán en cuenta los archivos subidos a esta página antes de la fecha de entrega.
 
-**Nota:** los primeros dos puntos son realizados en inglés por la extensión y fácil comprensión de los mismos, sin embargo, el punto 3 se encuentra en español para mejor entendimiento y brevedad de comprensión por parte de los compañeros o estudiantes que quieran revisarlo, pues su extensión lo hace necesario.
+**Nota:** El primer punto es realizado en inglés por la extensión y fácil comprensión del mismo, sin embargo, los puntos 2 y 3 se encuentran en español para mejor entendimiento y brevedad de comprensión por parte de los compañeros o estudiantes que quieran revisarlo, pues su extensión lo hace necesario.
