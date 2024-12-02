@@ -2,6 +2,8 @@
 
 Este proyecto realiza un análisis de secuencias de ADN, calculando los porcentajes de contenido GC (guanina + citosina) y AT (adenina + timina) en regiones específicas y catalogando como bandas G y R, respectivamente. Los resultados se dividen entre cromosomas y plásmidos, se guardan en archivos de texto y se generan histogramas en formato PDF.
 
+![Flujograma_code](https://github.com/serabe91/Entrega_1/blob/master/3rd_Cromosomes/document_pfuncion/diagrama_flujo_codigo.png)
+
 ## Características
 
 - **Análisis por ventanas**: Divide las secuencias en ventanas de tamaño fijo y calcula el porcentaje de GC y AT en cada una.
