@@ -1,7 +1,3 @@
-***This is the second point for P1.***
-
-
-
 # Análisis del Código
 
 El código define una clase `fasta_data` para trabajar con secuencias de ADN en formato FASTA. Implementa varias funcionalidades como contar registros, calcular longitudes de secuencias, identificar marcos de lectura abiertos (ORFs) y buscar repeticiones en las secuencias.
