@@ -5,7 +5,8 @@
 # Análisis del Código
 
 El código define una clase `fasta_data` para trabajar con secuencias de ADN en formato FASTA. Implementa varias funcionalidades como contar registros, calcular longitudes de secuencias, identificar marcos de lectura abiertos (ORFs) y buscar repeticiones en las secuencias.
-
+- Este código proviene de: [el-behnam/DNA-Sequence-Analysis-with-Python-A-Bioinformatics-Project](https://github.com/el-behnam/DNA-Sequence-Analysis-with-Python-A-Bioinformatics-Project)
+- Para un mejor entendimiento del código: [GitHub: sign up](https://github.com/signup)
 ---
 
 ## Comentarios Detallados del Código
